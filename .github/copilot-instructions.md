@@ -2,7 +2,7 @@
 - [x] Verify that the copilot-instructions.md file in the .github directory is created.
 
 - [ ] Clarify Project Requirements
-	<!-- Ask for project type, language, and frameworks if not specified. Skip if already provided. -->
+	<!-- Ask for project type,  language, and frameworks if not specified. Skip if already provided. -->
 
 - [ ] Scaffold the Project
 	<!--
